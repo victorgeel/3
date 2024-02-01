@@ -9,8 +9,8 @@ import (
 	"os"
 
 	"github.com/armon/go-socks5"
-	"github.com/aztecrabbit/liblog"
-	"github.com/aztecrabbit/libutils"
+	"github.com/victorgeel/liblog"
+	"github.com/victorgeel/libutils"
 	"golang.org/x/net/proxy"
 )
 
